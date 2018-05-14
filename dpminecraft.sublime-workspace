@@ -1,0 +1,659 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"dete",
+				"turtle.detect"
+			],
+			[
+				"det",
+				"turtle.detectDown"
+			],
+			[
+				"turn",
+				"turtle.turnLeft"
+			],
+			[
+				"down",
+				"turtle.down"
+			],
+			[
+				"bac",
+				"turtle.back"
+			],
+			[
+				"t",
+				"th	Tag"
+			],
+			[
+				"th",
+				"thead	Tag"
+			],
+			[
+				"defau",
+				"defaultdict"
+			],
+			[
+				"tab",
+				"TABLE	Tag"
+			],
+			[
+				"h",
+				"h1	Tag"
+			],
+			[
+				"req",
+				"request"
+			],
+			[
+				"ms",
+				"msmallint	SmallIntegerField (msmallint)"
+			],
+			[
+				"re",
+				"related_name"
+			],
+			[
+				"md",
+				"mdecimal	DecimalField (mdecimal)"
+			],
+			[
+				"Mod",
+				"Model	Model"
+			],
+			[
+				"els",
+				"elseif"
+			],
+			[
+				"this",
+				"this_pass_height"
+			],
+			[
+				"ender",
+				"ender_slot"
+			],
+			[
+				"getI",
+				"turtle.getItemCount"
+			],
+			[
+				"el",
+				"elseif"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "dpminecraft/apps/minecraft/models.py",
+			"settings":
+			{
+				"buffer_size": 1983,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "dpminecraft/apps/minecraft/admin.py",
+			"settings":
+			{
+				"buffer_size": 441,
+				"line_ending": "Windows",
+				"name": "from django.contrib import admin"
+			}
+		},
+		{
+			"file": "dpminecraft/apps/minecraft/urls.py",
+			"settings":
+			{
+				"buffer_size": 327,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "dpminecraft/apps/minecraft/views.py",
+			"settings":
+			{
+				"buffer_size": 731,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "dpminecraft/apps/minecraft/templates/minecraft/index.html",
+			"settings":
+			{
+				"buffer_size": 420,
+				"line_ending": "Windows",
+				"name": "{% extends 'base.html' %}"
+			}
+		},
+		{
+			"file": "dpminecraft/apps/minecraft/templates/minecraft/item_detail.html",
+			"settings":
+			{
+				"buffer_size": 2990,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "dpminecraft/templates/base.html",
+			"settings":
+			{
+				"buffer_size": 1724,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "requirements.pip",
+			"settings":
+			{
+				"buffer_size": 239,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "dpminecraft/urls.py",
+			"settings":
+			{
+				"buffer_size": 520,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 365.0,
+		"selected_items":
+		[
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"li",
+				"Package Control: List Packages"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Discover Packages"
+			]
+		],
+		"width": 386.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/projects/dpminecraft/dpminecraft/static/bootstrap/css/bootstrap.min.css",
+		"/C/projects/dpminecraft/dpminecraft/settings/prod.py",
+		"/C/projects/dpminecraft/dpminecraft/wsgi.py",
+		"/C/Users/Ash/AppData/Local/Temp/fz3temp-1/enderdig",
+		"/C/Users/Ash/AppData/Local/Temp/fz3temp-1/excavate",
+		"/C/Users/Ash/AppData/Local/Temp/fz3temp-1/wall",
+		"/C/Users/Ash/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Ash/AppData/Local/Temp/fz3temp-1/room",
+		"/C/Users/Ash/AppData/Local/Temp/fz3temp-1/measure",
+		"/C/Users/Ash/AppData/Local/Temp/fz3temp-1/act",
+		"/C/Users/Ash/AppData/Local/Temp/fz3temp-1/shaftmine",
+		"/C/projects/dpminecraft/dpminecraft/apps/minecraft/forms.py",
+		"/C/Users/Ash/AppData/Local/Temp/fz3temp-1/OreQuarry",
+		"/C/Users/Ash/AppData/Local/Temp/fz3temp-1/advancedorefinder",
+		"/C/Users/Ash/AppData/Local/Temp/7zEB463.tmp/jquery.columnizer.js",
+		"/C/projects/dpminecraft/dpminecraft/settings/base.py",
+		"/C/projects/dpminecraft/dpminecraft/urls.py",
+		"/C/projects/dpminecraft/requirements.pip",
+		"/C/Users/Ash/Downloads/rom/programs/turtle/mbq/master",
+		"/C/Users/Ash/Downloads/rom/programs/turtle/enderdig",
+		"/C/Users/Ash/AppData/Local/Temp/fz3temp-1/startup 2",
+		"/C/Users/Ash/AppData/Local/Temp/fz3temp-1/do",
+		"/C/Users/Ash/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/Ash/AppData/Roaming/Sublime Text 2/Packages/User/ComputerCraft.sublime-settings",
+		"/C/Users/Ash/Downloads/rom/act",
+		"/C/Users/Ash/AppData/Local/Temp/fz3temp-1/ash",
+		"/C/Users/Ash/Downloads/rom/apis/ash",
+		"/C/Users/Ash/Downloads/rom/apis/turtle/act",
+		"/C/Users/Ash/Downloads/rom/programs/turtle/mbq/startup",
+		"/C/Users/Ash/Downloads/rom/programs/turtle/do",
+		"/C/Users/Ash/Downloads/rom/startup",
+		"/C/Users/Ash/AppData/Local/Temp/fz3temp-1/startup",
+		"/C/Users/Ash/Downloads/cc-lua/do",
+		"/C/Users/Ash/Downloads/cc-lua/turtle/act",
+		"/C/Users/Ash/Downloads/cc-lua/turtle/do.cc.lua"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"[\"",
+			"go_home",
+			"go_to",
+			"act",
+			"goHome",
+			"goTo",
+			"Right",
+			"Left",
+			"Down",
+			"Up",
+			"Forward",
+			"turtle.place",
+			"place",
+			"local",
+			"turtle",
+			"tryForwards",
+			"()()",
+			"turnRight",
+			"turnLeft",
+			"tryUp",
+			"tryDown",
+			"down",
+			"0.",
+			"0.7",
+			"Down",
+			"down",
+			"Down",
+			"turtle.",
+			"x",
+			"real",
+			"item",
+			"    <script src=\"{{ STATIC_URL }}bootstrap/js/jquery.columnizer.js\"></script>\n",
+			"boostrap",
+			"li",
+			"rightCell",
+			"get_item_or_404",
+			"forms",
+			"Author",
+			"trim",
+			"ash",
+			"ash.",
+			"tMove",
+			"'down'",
+			"'forward'",
+			"'up'",
+			"ash.",
+			"[",
+			"up",
+			"tPlace",
+			"move(",
+			"tAttack",
+			"tDetect",
+			"tMove",
+			"tryDir",
+			"tMove",
+			"try",
+			"place(",
+			"turtle",
+			"unload_to_ender",
+			"makeDr"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"goTo",
+			"go_home",
+			"go_to",
+			"right",
+			"left",
+			"down",
+			"up",
+			"forward"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": true,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 8,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "dpminecraft/apps/minecraft/models.py",
+					"settings":
+					{
+						"buffer_size": 1983,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								850,
+								850
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "dpminecraft/apps/minecraft/admin.py",
+					"settings":
+					{
+						"buffer_size": 441,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								441,
+								441
+							]
+						],
+						"settings":
+						{
+							"auto_name": "from django.contrib import admin",
+							"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "dpminecraft/apps/minecraft/urls.py",
+					"settings":
+					{
+						"buffer_size": 327,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								327,
+								327
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "dpminecraft/apps/minecraft/views.py",
+					"settings":
+					{
+						"buffer_size": 731,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								723,
+								723
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "dpminecraft/apps/minecraft/templates/minecraft/index.html",
+					"settings":
+					{
+						"buffer_size": 420,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								209,
+								209
+							]
+						],
+						"settings":
+						{
+							"auto_name": "{% extends 'base.html' %}",
+							"syntax": "Packages/Djaneiro/Syntaxes/HTML (Django).tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "dpminecraft/apps/minecraft/templates/minecraft/item_detail.html",
+					"settings":
+					{
+						"buffer_size": 2990,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2769,
+								2769
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Djaneiro/Syntaxes/HTML (Django).tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 107.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "dpminecraft/templates/base.html",
+					"settings":
+					{
+						"buffer_size": 1724,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1026,
+								1026
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Djaneiro/Syntaxes/HTML (Django).tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "requirements.pip",
+					"settings":
+					{
+						"buffer_size": 239,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								238,
+								238
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "dpminecraft/urls.py",
+					"settings":
+					{
+						"buffer_size": 520,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								220,
+								220
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/C/projects/dpminecraft/dpminecraft.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 233.0,
+	"status_bar_visible": true
+}

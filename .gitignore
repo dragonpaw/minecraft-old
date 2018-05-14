@@ -1,0 +1,6 @@
+*.pyc
+*.egg-info
+dpminecraft/settings/prod.py
+dpminecraft/settings/prod/*
+docs/_build
+dev.db

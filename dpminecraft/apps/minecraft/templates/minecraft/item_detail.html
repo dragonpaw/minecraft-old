@@ -1,0 +1,74 @@
+{% extends "base.html" %}
+{% block content %}
+    <h1>{{item.name}}</h1>
+    <div class="row-fluid">
+
+        {# Left side column #}
+        <div class="span6">
+
+            {# Ingredient list for this one item #}
+            <table class="table table-striped">
+                <thead>
+                    <caption>Ingredients (To make <strong>{{item.batch_size}}</strong>)</caption>
+                </thead>
+                <tbody>
+                    <tr>
+                        <th>Item</th><th class="right">Quantity</th>
+                    </tr>
+                    {% for i in ingredients %}
+                        <tr {% if i.quantity == 0 %}class="info"{% elif i.quantity < 0 %}class="success"{% endif %}>
+                            <td><a href="{{i.item.get_absolute_url}}">{{i.item}}</a></td>
+                            <td class="right">{{i.quantity}}</td>
+                        </tr>
+                    {% empty %}
+                        <tr class="info"><td colspan="2">Gathered resource.</td></tr>
+                    {% endfor %}
+                </tbody>
+            </table>
+
+            {# What this item is used to possible make. #}
+            <table class="table table-striped">
+                <thead>
+                    <caption>Used in</caption>
+                </thead>
+                <tbody>
+                    <tr>
+                        <th>Item</th><th class="right">Quantity</th>
+                    </tr>
+                    {% for i in uses %}
+                        <tr>
+                            <td><a href="{{i.makes.get_absolute_url}}">{{i.makes}}</a></td>
+                            <td class="right">{{i.quantity_each|floatformat:2}}</td>
+                        </tr>
+                    {% empty %}
+                        <tr class="info"><td colspan="2">No known uses.</td></tr>
+                    {% endfor %}
+                </tbody>
+            </table>
+        </div>
+
+        {# Right side column #}
+        <div class="span6">
+            {# Raw materials table for everything needed to make this. #}
+            <table class="table table-striped">
+                <thead>
+                    <caption>Raw Materials (each)</caption>
+                </thead>
+                <tbody>
+                    <tr>
+                        <th>Item</th>
+                        <th class="right">Quantity</th>
+                        {# <th class="right">Rounded to</th> #}
+                    </tr>
+                    {% for item, rounded, real in materials %}
+                    <tr {% if real == 0 %}class="info"{% elif real < 0 %}class="success"{% endif %}>
+                        <td><a href="{{item.get_absolute_url}}">{{ item }}</a></td>
+                        <td class="right">{{ real|floatformat:-2 }}</td>
+                        {# <td class="right">{{ rounded }}</td> #}
+                    </tr>
+                    {% endfor %}
+                </tbody>
+            </table>
+        </div>
+    </div>
+{% endblock %}

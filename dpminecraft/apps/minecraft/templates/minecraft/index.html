@@ -1,0 +1,17 @@
+{% extends "base.html" %}
+{% block content %}
+    <ul class="columns">
+        {% for i in items %}
+            {% ifchanged %}<h2>{{ i.name|first }}</h2>{% endifchanged %}
+            <li><a href="{{i.get_absolute_url}}">{{ i }}</a></li>
+        {% endfor %}
+    </ul>
+{% endblock %}
+
+{% block js %}
+<script type="text/javascript">
+    $(function(){
+        $('div#content').columnize()
+    });
+</script>
+{% endblock %}
